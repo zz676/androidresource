@@ -22,3 +22,29 @@ https://www.udacity.com/course/android-performance--ud825
 
 Android Performance Patterns(Youtebe Videos)
 https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+
+Tutorial Point
+http://www.tutorialspoint.com/android/
+
+Android Development - Vogella
+http://www.vogella.com/tutorials/android.html
+
+Android Hive
+http://www.androidhive.info/
+
+Android SDK - Tuts+ Code
+http://code.tutsplus.com/categories/android-sdk
+
+Lynda
+http://www.lynda.com/
+
+Android Questions - Stack Overflow
+http://stackoverflow.com/questions/tagged/android
+
+Search · android - Github
+https://github.com/search?utf8=%E2%9C%93&q=android
+
+Android Archives | Java Code Geeks
+http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/
+
+androidcentral
